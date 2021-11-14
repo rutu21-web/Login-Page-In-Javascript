@@ -1,0 +1,48 @@
+body{
+    background: #ffcc00;
+}
+
+.div{
+   width: 350px;
+   margin: auto;
+   margin: 10 0 0 450px;
+   overflow: hidden;
+   padding: 75px;
+   background: lightblue;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+}
+
+label{
+   color: black;
+   font-size: 18px;
+   font-weight: bold;
+   margin-bottom: 5px;
+}
+
+.input{
+    
+    width: 300px;
+    height: 45px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 8px;
+
+}
+
+#btn{
+  
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 8px;
+    color: black;
+    font-size: 18px;
+
+}
